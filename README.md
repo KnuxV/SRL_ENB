@@ -101,14 +101,12 @@ The [eval folder](data/info/eval/) contains the raw sentences, the sentences ann
 | System      | Precision | Recall      | F1 score | 
 | ----------- | ----------- | ----------- | ----------- |
 | AllenNLP   | 0.88        | 0.87   | 0.88        |
-
-[]: 
   
   
 
 ## Graphical analysis: a web app using Plotly-Dash framework
 
-We developed an app to visualise the results of the relation extraction process on the ENB corpus. It's using the Plotly-Dash framework and is hosted on Heroky and available [here](https://srl-enb-app.herokuapp.com/). The source code is available [here](https://github.com/KnuxV/enb_dash_app).  
+We developed an app to visualise the results of the relation extraction process on the ENB corpus. It's using the Plotly-Dash framework and is hosted on Heroky and available [here](https://srl-enb-app.herokuapp.com/). The source code is available [here](https://github.com/KnuxV/enb_heroku_app).  
 
 The app upper-section displays a filtering system with which the user can filter the results.  
 It is possible to choose a `range of years` from the full length of the ENB corpus (1995-2019) to a single year.  
