@@ -1,0 +1,1711 @@
+0: Finland, on behalf of the European Union (EU), highlighted the Stern Review and stressed the need for long-term action where adaptation complements mitigation.
+
+REL: span, entity
+Finland = Finland
+European Union = European_Union
+EU = European_Union
+Stern Review = Stern_Review
+
+Spacy Entity Linker: span, entity, description
+Finland = Finland	republic in Northern Europe
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+European Union = European Union	economic and political union of states mostly located in Europe
+EU = European Union	economic and political union of states mostly located in Europe
+Stern Review = Stern Review	700-page report released for the Government of the United Kingdom on 30 October 2006 by economist Nicholas Stern
+need = need	thing that is necessary for an organism to live a healthy life
+action = action film	film genre
+adaptation = adaptation	evolutionary process that fits organisms to their environment, adaptive trait, or state reached by an evolving population
+mitigation = mitigation	in law, the principle that a party who suffers loss must take action to minimize the amount of loss
+
+
+1: Algeria, on behalf of the G-77, urged parties to the Convention not to go beyond the original mandate.
+
+REL: span, entity
+Algeria = Algeria
+G-77 = Group_of_77
+
+Spacy Entity Linker: span, entity, description
+Algeria = Algeria	country in North Africa
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+parties = political party	organization that seeks to influence government policy and actions
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+mandate = mandate	authority granted by a constituency to act as its representative
+
+
+2: Trinidad and Tobago, on behalf of AOSIS, said the recommendations to COP-1 should include initiating negotiations on a protocol.
+
+REL: span, entity
+Trinidad and Tobago = Trinidad_and_Tobago
+AOSIS = Alliance_of_Small_Island_States
+
+Spacy Entity Linker: span, entity, description
+Trinidad = Trinidad	larger of the two major islands which make up Trinidad and Tobago
+Tobago = Tobago	autonomous island in the Republic of Trinidad and Tobago
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+recommendations = recommendation	legislative act of the European Union
+COP-1 = glatiramer acetate	pharmaceutical drug
+negotiations = negotiation	dialogue between two or more people or parties intended to reach a beneficial outcome
+protocol = standard operating procedure	set of step-by-step instructions compiled by an organization to help workers carry out routine operations
+
+
+3: The US, supported by the EU, suggested that workshops be organized based on status of preparation of communications, rather than on regions.
+
+REL: span, entity
+US = United_States
+EU = Europe
+
+Spacy Entity Linker: span, entity, description
+US = United States of America	federal republic in North America
+EU = European Union	economic and political union of states mostly located in Europe
+workshops = workshop	room or building, with tools, used to repair or make goods
+status = legal status	status in law
+preparation = preparation	activity of achieving readiness for some event or activity
+communications = communication	act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+regions = region of France	France top-level territorial subdivision
+
+
+4: Argentina, on behalf of a group of developing countries, and China said measures taken on climate change under the IMO and ICAO should respect the principles and provisions of the Convention, in particular common but differentiated responsibilities (CBDR).
+
+REL: span, entity
+Argentina = Argentina
+China = China
+IMO = International_Maritime_Organization
+ICAO = International_Civil_Aviation_Organization
+Convention = European_Convention_on_Human_Rights
+
+Spacy Entity Linker: span, entity, description
+Argentina = Argentina	federal republic in South America
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+group = group	algebraic set with an invertible, associative internal operation admitting a neutral element
+developing countries = developing country	nation with a low living standard relative to other countries
+China = People's Republic of China	state in East Asia
+measures = measure	mathematical function which associates a comparable numeric value to some subsets of a given set
+climate change = global warming	rise in the average temperature of Earth's atmosphere and oceans since the late 19th century and its projected continuation
+IMO = International Maritime Organization	specialized UN agency concerned with legal and regulatory aspects of maritime activity
+ICAO = International Civil Aviation Organization	specialized agency of the United Nations, coordinates the field of aviation policy
+principles = principle	guiding rule or inevitable consequence of something, such as the laws observed in nature
+provisions = provision	account which records a present liability of an entity
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+common but differentiated responsibilities = Common But Differentiated Responsibilities	
+CBDR = Constant bearing, decreasing range	
+
+
+5: CANADA, supported by the US, preferred deciding that the ADP “should aim to” prepare a negotiating text instead of “shall.”
+
+REL: span, entity
+CANADA = Canada
+US = United_States
+ADP = Adenosine_diphosphate
+
+Spacy Entity Linker: span, entity, description
+CANADA = Canada	country in North America
+US = United States of America	federal republic in North America
+ADP = Automatic Data Processing	company
+text = text	object that can be "read" by reader; result of writing
+
+
+6: This was opposed by the LDCs who cautioned against “slippage in timing.”
+
+REL: span, entity
+LDCs = Least_Developed_Countries
+
+Spacy Entity Linker: span, entity, description
+slippage = sliding	relative motion of two surfaces in contact or separated by a thin film of fluid
+timing = Timing	
+
+
+7: Benin said the texts are an “excellent” and “significant” step forward towards achieving an international agreement supported by both developed and developing countries.
+
+REL: span, entity
+Benin = Benin
+
+Spacy Entity Linker: span, entity, description
+Benin = Benin	country in Africa
+texts = text	object that can be "read" by reader; result of writing
+step = middle	item to be used as a value of P518
+international agreement = treaty	express agreement under international law entered into by actors in international law
+countries = country	distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics
+
+
+8: SAUDI ARABIA, supported by the UNITED ARAB EMIRATES and QATAR, noted that the issue had been pending for “a very long time” but requested that reference linking a workshop on 1/CP.10 to a workshop on Protocol Articles 2.3 and 3.14 be deleted.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+UNITED ARAB EMIRATES = United_Arab_Emirates
+QATAR = Qatar
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+UNITED ARAB EMIRATES = United Arab Emirates	monarchy in Southwest Asia
+QATAR = Qatar	constitutional monarchy in western Asia
+issue = issue	genealogical and legal term referring to one's lineal descendants
+long time = Long Time	2017 single by Blondie
+reference = reference	relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+workshop = workshop	room or building, with tools, used to repair or make goods
+workshop = workshop	room or building, with tools, used to repair or make goods
+Protocol = Protocol	1984 comedy film that starred Goldie Hawn and Chris Sarandon. The screenplay was by Buck Henry and it was directed by Herbert Ross
+
+
+9: The EU, supported by many parties, proposed a draft decision to strengthen the implementation of decision 36/CP.7 (enhancing participation of women in UNFCCC bodies).
+
+REL: span, entity
+EU = Europe
+UNFCCC = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+parties = political party	organization that seeks to influence government policy and actions
+draft = conscription in the United States	"The draft" in the United States
+implementation = implementation	realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy
+decision = decision	legislative act of the European Union
+participation = participation	inclusion of individuals and organizations in decision-making and opinion-forming processes
+women = woman	female adult human
+bodies = cadaver	dead human body
+
+
+10: CHINA, supported by NIGERIA, SYRIAN ARAB REPUBLIC, OMAN and BRAZIL, stressed the need to mobilize funding for the Adaptation Fund.
+
+REL: span, entity
+CHINA = China
+NIGERIA = Nigeria
+SYRIAN ARAB REPUBLIC = Syria
+OMAN = Oman
+BRAZIL = Brazil
+Adaptation Fund = Clean_Development_Mechanism
+
+Spacy Entity Linker: span, entity, description
+CHINA = People's Republic of China	state in East Asia
+NIGERIA = Nigeria	federal republic in West Africa
+SYRIAN ARAB REPUBLIC = Syria	republic in Western Asia
+OMAN = Oman	country in Western Asia
+BRAZIL = Brazil	federal republic in South America
+need = need	thing that is necessary for an organism to live a healthy life
+funding = funding	act of providing resources
+Adaptation Fund = Adaptation Fund	support developing countries in the fight against climate change
+
+
+11: Tuvalu, supported by AOSIS, argued that this agenda item required formal consideration, and proposed suspending the COP until the issue is resolved.
+
+REL: span, entity
+Tuvalu = Tuvalu
+AOSIS = Alliance_of_Small_Island_States
+
+Spacy Entity Linker: span, entity, description
+Tuvalu = Tuvalu	country in Oceania
+agenda = agenda	plan for meeting
+consideration = consideration	concept of legal value in connection with contracts
+COP = cryptogenic organizing pneumonia	Inflammation of the bronchioles (bronchiolitis) and surrounding tissue in the lungs
+issue = issue	genealogical and legal term referring to one's lineal descendants
+
+
+12: The EU, supported by Japan, prefered referring to efforts that parties are able to “undertake,” instead of “make unilaterally.”
+
+REL: span, entity
+EU = European_Union
+Japan = Japan
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+Japan = Japan	constitutional monarchy in East Asia
+efforts = exertion	use of physical or perceived energy by a person
+parties = political party	organization that seeks to influence government policy and actions
+
+
+13: Noting potential use of quantitative or qualitative methodologies, Brazil supported “developing countries may also clarify the extent to which enhanced efforts are dependent upon the provision of support.”
+
+REL: span, entity
+Brazil = Brazil
+
+Spacy Entity Linker: span, entity, description
+use = Use	
+methodologies = methodology	scientific method of accumulating data
+developing countries = developing country	nation with a low living standard relative to other countries
+Brazil = Brazil	federal republic in South America
+extent = extent	storage area in computer file system
+efforts = exertion	use of physical or perceived energy by a person
+provision = provision	account which records a present liability of an entity
+support = support	part of the domain of a mathematical function
+
+
+14: Papua New Guinea, supported by Costa Rica, Malaysia and Thailand, expressed concern that the option on land-based accounting was omitted from the Chair's draft text.
+
+REL: span, entity
+Papua New Guinea = Papua_New_Guinea
+Costa Rica = Costa_Rica
+Malaysia = Malaysia
+Thailand = Thailand
+Chair = Chair
+
+Spacy Entity Linker: span, entity, description
+Papua New Guinea = Papua New Guinea	constitutional monarchy in Oceania
+Costa Rica = Costa Rica	country in Central America
+Malaysia = Malaysia	federal constitutional monarchy in Southeast Asia
+Thailand = Thailand	constitutional monarchy in Southeast Asia
+concern = concern	type of business grouping, particularly in Europe
+option = option	right to to buy or sell a certain thing at a later date at an agreed price
+accounting = accounting	measurement, processing and communication of financial information about economic entit
+draft = conscription in the United States	"The draft" in the United States
+Chair = Chair	public artwork designed as an advertisement by Bassett Furniture
+
+
+15: The EU, supported by the US and JAPAN, said donors should not place their resources in the hands of the COP.
+
+REL: span, entity
+EU = Europe
+US = United_States
+JAPAN = Japan
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+US = United States of America	federal republic in North America
+JAPAN = Japan	constitutional monarchy in East Asia
+donors = donor	dopant atom that, when added to a semiconductor, can form a n-type region
+resources = resource	source or supply from which benefit is produced
+hands = hand	extremity at the end of an arm or forelimb
+COP = cryptogenic organizing pneumonia	Inflammation of the bronchioles (bronchiolitis) and surrounding tissue in the lungs
+
+
+16: AOSIS, supported by SWITZERLAND and MEXICO, proposed a work programme on areas of high mitigation potential with an initial focus on energy efficiency and renewable energy.
+
+REL: span, entity
+AOSIS = Alliance_of_Small_Island_States
+SWITZERLAND = Switzerland
+MEXICO = Mexico
+
+Spacy Entity Linker: span, entity, description
+SWITZERLAND = Switzerland	federal republic in Central Europe
+MEXICO = Mexico	federal republic in the southern portion of North America
+work programme = Work Programme	UK welfare to work scheme
+areas = area	quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane
+potential = potential	currently unrealized ability
+focus = focus	point where light rays originating from a point converge on an object
+energy efficiency = efficient energy use	minimizing the amount of energy used for a given, constant energy service
+renewable energy = renewable energy	energy that is collected from renewable resources
+
+
+17: On the plenary of the Compliance Committee, the G- 77/CHINA, opposed by the US, EU, AUSTRALIA, RUSSIAN FEDERATION and NEW ZEALAND, said it should have an allocation as well as a preliminary examination function.
+
+REL: span, entity
+CHINA = China
+US = United_States
+EU = European_Union
+AUSTRALIA = Australia
+RUSSIAN = Russia
+NEW ZEALAND = New_Zealand
+
+Spacy Entity Linker: span, entity, description
+Compliance = Compliance	2012 Craig Zobel film
+CHINA = People's Republic of China	state in East Asia
+US = United States of America	federal republic in North America
+EU = European Union	economic and political union of states mostly located in Europe
+AUSTRALIA = Australia	country in Oceania
+RUSSIAN FEDERATION = Russia	transcontinental country in Eastern Europe and Northern Asia
+NEW ZEALAND = New Zealand	constitutional monarchy in Oceania
+allocation = Allocation	
+function = function	mathematical binary relation between two sets, which is right-unique, but not necessarily left-total (a function which is left-total is a partial function, application, map, or mapping)
+
+
+18: The EU, opposed by the G-77/CHINA, said the objective of the SCCF is to assist developing countries to integrate climate change factors into national sustainable development and poverty reduction strategies, and their implementation.
+
+REL: span, entity
+EU = Europe
+G-77 = Group_of_77
+CHINA = China
+SCCF = El_Loa_Airport
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+CHINA = People's Republic of China	state in East Asia
+objective = objective	optical element that gathers light from the object being observed and focuses the light rays to produce a real image
+SCCF = El Loa Airport	airport in Calama, Chile
+developing countries = developing country	nation with a low living standard relative to other countries
+climate = climate	statistics of temperature, humidity, atmospheric pressure, wind, precipitation, atmospheric particle count and other meteorological elemental measurements in a given region over long periods
+strategies = strategy	high-level plan to achieve objectives in uncertain conditions
+sustainable development = sustainable development	mode of human development
+poverty reduction = Poverty reduction	measures to reduce poverty permanently
+implementation = implementation	realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy
+
+
+19: Saudi Arabia, supported by Oman and the EU, and opposed by Canada, requested the exclusion of a Canadian proposal on modalities for the accounting of assigned amounts in relation to cleaner energy exports.
+
+REL: span, entity
+Saudi Arabia = Saudi_Arabia
+Oman = Oman
+EU = Europe
+Canada = Canada
+Canadian = Canada
+
+Spacy Entity Linker: span, entity, description
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+Oman = Oman	country in Western Asia
+EU = European Union	economic and political union of states mostly located in Europe
+Canada = Canada	country in North America
+exclusion = Exclusion	2014 film directed by Deepa Mehta
+proposal = research proposal	description of planned research for which funding is requested
+modalities = linguistic modality	feature of language that allows for communicating things about, or based on, situations which need not be actual
+accounting = accounting	measurement, processing and communication of financial information about economic entit
+amounts = quantity	property that exists in a range of magnitudes or multitudes; property that can exist as a magnitude or multitude
+relation = relation	concept in relational database theory
+energy = energy	quantitative physical property transferred to objects to perform heating or work on them
+
+
+20: The US, opposed by Brazil, noted the possibility of convening a “friends of the chair” group while continuing with drafting.
+
+REL: span, entity
+US = United_States
+Brazil = Brazil
+
+Spacy Entity Linker: span, entity, description
+US = United States of America	federal republic in North America
+Brazil = Brazil	federal republic in South America
+possibility = Possibility	song
+group = group	algebraic set with an invertible, associative internal operation admitting a neutral element
+friends = Friends	American sitcom (1994–2004)
+chair = chairperson	leading or presiding officer of an organized group such as a board, committee, or deliberative assembly
+
+
+21: Australia, with the US, Canada and the EU, and opposed by the G-77/China and AOSIS, supported addressing the issue of “factoring out” direct human-induced effects from the indirect and natural effects of LULUCF activities.
+
+REL: span, entity
+Australia = Australia
+US = United_States
+Canada = Canada
+EU = Europe
+G-77 = Group_of_77
+China = China
+AOSIS = Alliance_of_Small_Island_States
+LULUCF = Land_use,_land-use_change,_and_forestry
+
+Spacy Entity Linker: span, entity, description
+Australia = Australia	country in Oceania
+US = United States of America	federal republic in North America
+Canada = Canada	country in North America
+EU = European Union	economic and political union of states mostly located in Europe
+China = People's Republic of China	state in East Asia
+issue = issue	genealogical and legal term referring to one's lineal descendants
+effects = result	final consequence of a sequence of actions or events
+effects = result	final consequence of a sequence of actions or events
+activities = human activity	activity initiated by a human
+
+
+22: Opposed by TUVALU, the EU recommended recording Tuvalu's concerns in the meeting's minutes instead of amending the draft conclusions.
+
+REL: span, entity
+TUVALU = Tuvalu
+EU = Europe
+Tuvalu = Tuvalu
+
+Spacy Entity Linker: span, entity, description
+TUVALU = Tuvalu	country in Oceania
+EU = European Union	economic and political union of states mostly located in Europe
+concerns = concern	type of business grouping, particularly in Europe
+Tuvalu = Tuvalu	country in Oceania
+minutes = minutes	written details of a meeting
+meeting = meeting	event in which two or more people assemble, planned in advance to facilitate discussion
+draft = conscription in the United States	"The draft" in the United States
+
+
+23: The EU, opposed by SAUDI ARABIA, suggested developing a practical, longer-term work programme.
+
+REL: span, entity
+EU = European_Union
+SAUDI ARABIA = Saudi_Arabia
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+work programme = Work Programme	UK welfare to work scheme
+
+
+24: AUSTRALIA, opposed by the G-77/CHINA, proposed adding a procedural paragraph that would list work to be done.
+
+REL: span, entity
+AUSTRALIA = Australia
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+AUSTRALIA = Australia	country in Oceania
+CHINA = People's Republic of China	state in East Asia
+paragraph = paragraph	a portion of text composed of one or more sentences
+work = work	process or amount (and direction) of energy transfer to an object via the application of forces on it through a displacement
+
+
+25: Japan, Saudi Arabia, Algeria, the United Arab Emirates, Syria, Nigeria, Libya and others, opposed by Grenada and Tuvalu, stressed the importance of including CCS under the CDM.
+
+REL: span, entity
+Japan = Japan
+Saudi Arabia = Saudi_Arabia
+Algeria = Algeria
+United Arab Emirates = United_Arab_Emirates
+Syria = Syria
+Nigeria = Nigeria
+Libya = Libya
+Grenada = Grenada
+Tuvalu = Tuvalu
+CCS = Carbon_capture_and_storage
+CDM = Clean_Development_Mechanism
+
+Spacy Entity Linker: span, entity, description
+Japan = Japan	constitutional monarchy in East Asia
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+Algeria = Algeria	country in North Africa
+United Arab Emirates = United Arab Emirates	monarchy in Southwest Asia
+Syria = Syria	republic in Western Asia
+Nigeria = Nigeria	federal republic in West Africa
+Libya = Libya	country in north Africa
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+Grenada = Grenada	country in the Caribbean
+Tuvalu = Tuvalu	country in Oceania
+CCS = Combined Charging System	charging method for electric vehicles
+CDM = cold dark matter	dark matter
+
+
+26: CHINA opposed taking a single decision on all mechanisms as this was not supported by the Protocol.
+
+REL: span, entity
+CHINA = China
+Protocol = Communication_protocol
+
+Spacy Entity Linker: span, entity, description
+CHINA = People's Republic of China	state in East Asia
+decision = decision	legislative act of the European Union
+mechanisms = mechanism	device designed to transform input forces and movement into a desired set of output forces and movement
+Protocol = Protocol	1984 comedy film that starred Goldie Hawn and Chris Sarandon. The screenplay was by Buck Henry and it was directed by Herbert Ross
+
+
+27: TANZANIA, on behalf of the G-77/CHINA, noted that developing countries are the most vulnerable to climate change and the least able to adapt.
+
+REL: span, entity
+TANZANIA = Tanzania
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+TANZANIA = Tanzania	country in Africa
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+CHINA = People's Republic of China	state in East Asia
+developing countries = developing country	nation with a low living standard relative to other countries
+climate change = global warming	rise in the average temperature of Earth's atmosphere and oceans since the late 19th century and its projected continuation
+
+
+28: Emphasizing that adaptation cannot be measured and quantified, CANADA did not support linkages between the long-term temperature limit, the need for support and adaptation.
+
+REL: span, entity
+CANADA = Canada
+
+Spacy Entity Linker: span, entity, description
+adaptation = adaptation	evolutionary process that fits organisms to their environment, adaptive trait, or state reached by an evolving population
+CANADA = Canada	country in North America
+linkages = linkage	assembly of bodies mechanically connected to manage forces and movement
+temperature = temperature	physical property of matter that quantitatively expresses the common notions of hot and cold
+need = need	thing that is necessary for an organism to live a healthy life
+support = support	part of the domain of a mathematical function
+adaptation = adaptation	evolutionary process that fits organisms to their environment, adaptive trait, or state reached by an evolving population
+
+
+29: Sudan, for the AFRICAN GROUP, supported by CHINA and CHILE, and opposed by the US, prefered restating the extent to which developing countries' implementation depends on the level of support.
+
+REL: span, entity
+Sudan = Sudan
+AFRICAN GROUP = Africa
+CHINA = China
+CHILE = Chile
+US = United_States
+
+Spacy Entity Linker: span, entity, description
+Sudan = Sudan	country in Northeast Africa
+AFRICAN GROUP = African Group	
+CHINA = People's Republic of China	state in East Asia
+CHILE = Chile	republic in South America
+US = United States of America	federal republic in North America
+extent = extent	storage area in computer file system
+implementation = implementation	realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy
+developing countries = developing country	nation with a low living standard relative to other countries
+level = spirit level	instrument with a sealed tube of liquid, designed to indicate whether a surface is horizontal (level) or vertical (plumb)
+support = support	part of the domain of a mathematical function
+
+
+30: On the revision of guidelines, the US did not support deciding at COP-7 on the frequency of submission of national communications by non-LDC developing country Parties.
+
+REL: span, entity
+US = United_States
+
+Spacy Entity Linker: span, entity, description
+revision = revision	stage in the writing process where the author reviews, alters, and amends their message, according to what has been written in the draft
+guidelines = guideline	statement by which to determine a course of action
+US = United States of America	federal republic in North America
+frequency = frequency	number of repetitions per unit time
+submission = deference	condition of submitting to the espoused, legitimate influence of one's superior or superiors
+communications = communication	act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+country Parties = Country Party	
+
+
+31: South Africa, for the G-77/CHINA, did not support the Chair's text and proposed forwarding both the text from SBI 22 (FCCC/SBI/2005/10 Annex 1) and the G-77/CHINA submission to SB 24 for consideration.
+
+REL: span, entity
+South Africa = South_Africa
+G-77 = Group_of_77
+CHINA = China
+Chair = Chair
+SBI = State_Bank_of_India
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+South Africa = South Africa	republic in Southern Africa
+CHINA = People's Republic of China	state in East Asia
+text = text	object that can be "read" by reader; result of writing
+Chair = Chair	public artwork designed as an advertisement by Bassett Furniture
+text = text	object that can be "read" by reader; result of writing
+SBI = State Bank of India	Indian public banking and financial services statutory body
+Annex = Annex	census-designated place in Malheur County, Oregon, United States
+submission = deference	condition of submitting to the espoused, legitimate influence of one's superior or superiors
+SB = Bachelor of Science	academic degree
+consideration = consideration	concept of legal value in connection with contracts
+
+
+32: NEW ZEALAND, the RUSSIAN FEDERATION, AUSTRALIA, JAPAN and CANADA said they could not support the encouragement of introducing quotas for Certified Emission Reductions originating from LDCs, SIDS and Africa during the second commitment period.
+
+REL: span, entity
+NEW ZEALAND = New_Zealand
+RUSSIAN = Russia
+AUSTRALIA = Australia
+JAPAN = Japan
+CANADA = Canada
+Certified Emission Reductions = Certified_Emission_Reduction
+LDCs = Least_Developed_Countries
+SIDS = Sudden_infant_death_syndrome
+Africa = Africa
+
+Spacy Entity Linker: span, entity, description
+NEW ZEALAND = New Zealand	constitutional monarchy in Oceania
+RUSSIAN FEDERATION = Russia	transcontinental country in Eastern Europe and Northern Asia
+AUSTRALIA = Australia	country in Oceania
+JAPAN = Japan	constitutional monarchy in East Asia
+CANADA = Canada	country in North America
+quotas = Quota	extended play by Eleventyseven
+Certified Emission Reductions = Certified Emission Reduction	
+SIDS = sudden infant death syndrome	syndrome that is characterized by the sudden death of an infant that is not predicted by medical history and remains unexplained after a thorough forensic autopsy and detailed death scene investigation.
+Africa = Africa	continent on the Earth's northern and southern hemispheres
+period = full stop	punctuation to signal the end of a sentence
+
+
+33: SINGAPORE, supported by PANAMA, called ICAO and IMO the ``most competent'' bodies to address emissions in their respective sectors.
+
+REL: span, entity
+SINGAPORE = Singapore
+PANAMA = Panama
+ICAO = International_Civil_Aviation_Organization
+IMO = International_Maritime_Organization
+
+Spacy Entity Linker: span, entity, description
+SINGAPORE = Singapore	Southeast asia city state
+PANAMA = Panama	cryptography primitive
+ICAO = International Civil Aviation Organization	specialized agency of the United Nations, coordinates the field of aviation policy
+IMO = International Maritime Organization	specialized UN agency concerned with legal and regulatory aspects of maritime activity
+bodies = cadaver	dead human body
+emissions = emission	radiation or radio signal produced or emitted by a radio transmitting station
+sectors = disk sector	logical or physical division of storage media
+
+
+34: SAUDI ARABIA said he could not support the elections as proposed.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+elections = election	process by which a population chooses an individual to hold public office
+
+
+35: However, Australia did not support text on submissions.
+
+REL: span, entity
+Australia = Australia
+
+Spacy Entity Linker: span, entity, description
+Australia = Australia	country in Oceania
+text = text	object that can be "read" by reader; result of writing
+submissions = deference	condition of submitting to the espoused, legitimate influence of one's superior or superiors
+
+
+36: Austria cannot support JI credits for constructing nuclear power plants.
+
+REL: span, entity
+Austria = Austria
+JI = Just_intonation
+
+Spacy Entity Linker: span, entity, description
+Austria = Austria	federal republic in western-central Europe
+credits = credit	loan
+nuclear power plants = nuclear power station	thermal power station where the heat source is a nuclear reactor
+
+
+37: China said that it did not approve of any attempt to make developing countries accept concrete restrictive targets through amending the Convention or negotiating new protocols.
+
+REL: span, entity
+China = China
+Convention = European_Convention_on_Human_Rights
+
+Spacy Entity Linker: span, entity, description
+China = People's Republic of China	state in East Asia
+attempt = attempt	occurs if a criminal has an intent to commit a crime and takes a substantial step toward completing the crime
+developing countries = developing country	nation with a low living standard relative to other countries
+targets = target market	group of people toward which an organization has decided to aim its marketing efforts
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+protocols = standard operating procedure	set of step-by-step instructions compiled by an organization to help workers carry out routine operations
+
+
+38: On Croatia's appeal, parties agreed that the COP/MOP should note that Croatia has withdrawn its appeal.
+
+REL: span, entity
+Croatia = Croatia
+COP = United_Nations_Framework_Convention_on_Climate_Change
+MOP = Mop
+Croatia = Croatia
+
+Spacy Entity Linker: span, entity, description
+appeal = appeal	resort to a superior court to review the decision of an inferior court or administrative agency
+Croatia = Croatia	republic in Central Europe
+parties = political party	organization that seeks to influence government policy and actions
+MOP = OPRM1	protein-coding gene in the species Homo sapiens
+COP = cryptogenic organizing pneumonia	Inflammation of the bronchioles (bronchiolitis) and surrounding tissue in the lungs
+Croatia = Croatia	republic in Central Europe
+appeal = appeal	resort to a superior court to review the decision of an inferior court or administrative agency
+
+
+39: JAPAN said the cost of sanctions should be lower than the cost of withdrawal from the Protocol.
+
+REL: span, entity
+JAPAN = Japan
+Protocol = Kyoto_Protocol
+
+Spacy Entity Linker: span, entity, description
+JAPAN = Japan	constitutional monarchy in East Asia
+cost = cost	value of money that has been used up to produce something
+sanctions = consent	expression granting permission; indication of agreement with a proposal; acknowledgement that an item meets requirements
+cost = cost	value of money that has been used up to produce something
+withdrawal = withdrawal	military operation
+Protocol = Protocol	1984 comedy film that starred Goldie Hawn and Chris Sarandon. The screenplay was by Buck Henry and it was directed by Herbert Ross
+
+
+40: Kenya announced that it has withdrawn its offer to host the Secretariat.
+
+REL: span, entity
+Kenya = Kenya
+Secretariat = Secretariat_(film)
+
+Spacy Entity Linker: span, entity, description
+Kenya = Kenya	republic in East Africa
+offer = offer and acceptance	two components of agreement
+Secretariat = Secretariat	Thoroughbred race horse; winner of US Triple Crown of Thoroughbred Racing in 1973
+
+
+41: OTHER MATTERS: Issues relating to cleaner or less-greenhouse-gas-emitting energy: This agenda item was withdrawn in the opening COP plenary on Monday, 6 December, after Canada withdrew its proposal on cleaner energy exports.
+
+REL: span, entity
+Canada = Canada
+
+Spacy Entity Linker: span, entity, description
+MATTERS = MATTER	
+Issues = Issues	1999 album by American nu metal band Korn
+energy = energy	quantitative physical property transferred to objects to perform heating or work on them
+agenda = agenda	plan for meeting
+opening = opening	basic operation in mathematical morphology
+Monday = Monday	day of the week
+December = December	twelfth month in the Julian and Gregorian calendars
+Canada = Canada	country in North America
+proposal = research proposal	description of planned research for which funding is requested
+energy = energy	quantitative physical property transferred to objects to perform heating or work on them
+
+
+42: IRAN, supported by EGYPT, requested that the Secretariat make an attributed version of the new text available, while VENEZUELA and COLOMBIA opposed.
+
+REL: span, entity
+IRAN = Iran
+EGYPT = Egypt
+Secretariat = Secretariat_(horse)
+VENEZUELA = Venezuela
+COLOMBIA = Colombia
+
+Spacy Entity Linker: span, entity, description
+IRAN = IRAN	journal
+EGYPT = Egypt	republic in North Africa
+Secretariat = Secretariat	Thoroughbred race horse; winner of US Triple Crown of Thoroughbred Racing in 1973
+version = version, edition, or translation	(use with P31, instance of) specific version of a work, resulting from its edition, adaptation, or translation; set of substantially similar copies of a work; encompasses both frbr:Expression and frbr:Manifestation
+text = text	object that can be "read" by reader; result of writing
+VENEZUELA = Venezuela	Bolivarian republic in northern South America
+COLOMBIA = Colombia	country in South America
+
+
+43: SAUDI ARABIA rejected the Chair's proposal to establish a Friends of the Chair group to develop compromise text, and threatened to withdraw support for a similar proposal in the contact group on mechanisms.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+Chair = Chair
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+proposal = research proposal	description of planned research for which funding is requested
+Chair = Chair	public artwork designed as an advertisement by Bassett Furniture
+group = group	algebraic set with an invertible, associative internal operation admitting a neutral element
+Friends = Friends	American sitcom (1994–2004)
+Chair = Chair	public artwork designed as an advertisement by Bassett Furniture
+text = text	object that can be "read" by reader; result of writing
+support = support	part of the domain of a mathematical function
+proposal = research proposal	description of planned research for which funding is requested
+contact group = Contact Group	
+mechanisms = mechanism	device designed to transform input forces and movement into a desired set of output forces and movement
+
+
+44: On the current negotiations at COP-7, Switzerland said it could not accept changes that weaken the Bonn Agreements, and stated that no country can shirk its responsibilities.
+
+REL: span, entity
+Switzerland = Switzerland
+Bonn = Bonn
+
+Spacy Entity Linker: span, entity, description
+negotiations = negotiation	dialogue between two or more people or parties intended to reach a beneficial outcome
+Switzerland = Switzerland	federal republic in Central Europe
+changes = changes	XXXTentacion song
+Bonn = Bonn	city in Germany, former capital
+country = country within the United Kingdom	one of four constituent parts of the United Kingdom:  England, Wales, Scotland and Northern Ireland
+responsibilities = accountability	Responsibility to inform and justify decisions
+
+
+45: SAUDI ARABIA said he could not accept negotiations taking place outside the FCCC bodies, and opposed the appointment of facilitators.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+FCCC = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+negotiations = negotiation	dialogue between two or more people or parties intended to reach a beneficial outcome
+place = geographic region	2D or 3D defined space, mainly in terrestrial and astrophysics sciences
+bodies = cadaver	dead human body
+appointment = The Appointment	1969 film by Sidney Lumet
+facilitators = supervisor	manager in a business or event
+
+
+46: JAPAN, with a number of other Annex I Parties, indicated that he did not consider reporting under Article 3.14 to be mandatory, and could not accept a link to mechanisms eligibility.
+
+REL: span, entity
+JAPAN = Japan
+Annex I Parties = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+JAPAN = Japan	constitutional monarchy in East Asia
+number = number	mathematical object used to count, label, and measure
+Annex = Annex	census-designated place in Malheur County, Oregon, United States
+reporting = journalism	investigation and reporting of events, issues and trends to a broad audience
+Article = article	word used with a noun to indicate the type of reference being made by the noun; one of word classes
+link = hyperlink	computing term; reference to data that the reader can directly follow either by clicking, tapping, or hovering
+mechanisms = mechanism	device designed to transform input forces and movement into a desired set of output forces and movement
+
+
+47: LATVIA: Indulis Emsis, State Minister for the Environment, called for increased commitments for developed countries, adding that Latvia cannot accept new commitments.
+
+REL: span, entity
+LATVIA = Latvia
+Indulis Emsis = Indulis_Emsis
+Environment = Biophysical_environment
+Latvia = Latvia
+
+Spacy Entity Linker: span, entity, description
+LATVIA = Latvia	republic in Northern Europe
+Indulis Emsis = Indulis Emsis	Prime Minister of Latvia
+State Minister = State Minister	
+Environment = Environment	journal
+commitments = The Commitments	1991 film based on the novel "The Commitments" by Roddy Doyle
+developed countries = developed country	country with a developed industry and infrastructure
+Latvia = Latvia	republic in Northern Europe
+commitments = The Commitments	1991 film based on the novel "The Commitments" by Roddy Doyle
+
+
+48: Colombia said they could not accept a “legal outcome” or application in 2020 and cannot accept the Durban package as it stands.
+
+REL: span, entity
+Colombia = Colombia
+Durban = Durban
+
+Spacy Entity Linker: span, entity, description
+Colombia = Colombia	country in South America
+outcome = outcome	possible result of an experiment
+application = application	computer software designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user
+Durban = Durban	city in KwaZulu-Natal, South Africa
+
+
+49: Brazil, for the G-77/CHINA, said the US position of not negotiating because the agenda item on the review of information in non-Annex I communications is in abeyance is not acceptable.
+
+REL: span, entity
+Brazil = Brazil
+G-77 = Group_of_77
+CHINA = China
+US = United_States
+
+Spacy Entity Linker: span, entity, description
+Brazil = Brazil	federal republic in South America
+CHINA = People's Republic of China	state in East Asia
+US = United States of America	federal republic in North America
+agenda = agenda	plan for meeting
+review = review	evaluation
+information = information	that which informs; the answer to a question of some kind; that from which data and knowledge can be derived
+communications = communication	act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+abeyance = abeyance	state of expectancy
+
+
+50: SAUDI ARABIA and OMAN said sectoral targets should be restricted to Annex I parties, with OMAN stating that he would not accept further obligations beyond the UNFCCC.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+OMAN = Oman
+OMAN = Oman
+UNFCCC = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+OMAN = Oman	country in Western Asia
+targets = target market	group of people toward which an organization has decided to aim its marketing efforts
+parties = political party	organization that seeks to influence government policy and actions
+Annex = Annex	census-designated place in Malheur County, Oregon, United States
+OMAN = Oman	country in Western Asia
+obligations = obligation	course of action that someone is required to take, whether legal or moral
+
+
+51: Bolivia opposed the decisions, stating that they represent a step backward because they postpone a decision on a second commitment period under the Kyoto Protocol “indefinitely” and “open the door for a regime that is more flexible and voluntary, and is based on a pledge-and-review system.”
+
+REL: span, entity
+Bolivia = Bolivia
+Kyoto Protocol = Kyoto_Protocol
+
+Spacy Entity Linker: span, entity, description
+Bolivia = Bolivia	country in South America
+decisions = decision	legislative act of the European Union
+step = middle	item to be used as a value of P518
+decision = decision	legislative act of the European Union
+period = full stop	punctuation to signal the end of a sentence
+Kyoto Protocol = Kyoto Protocol	international treaty to reduce greenhouse gas emissions
+door = door	movable structure used to open and close an entrance
+regime = regime	form of government or the set of rules, cultural or social norms, etc. that regulate the operation of a government or institution and its interactions with society
+system = system	set of interacting or interdependent components
+review = review	evaluation
+
+
+52: Saudi Arabia said that the G-77/China had not had enough time to consider the text fully, and could not accept it as a basis for discussion.
+
+REL: span, entity
+Saudi Arabia = Saudi_Arabia
+G-77 = Group_of_77
+China = China
+
+Spacy Entity Linker: span, entity, description
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+China = People's Republic of China	state in East Asia
+time = time	dimension in which events can be ordered from the past through the present into the future
+text = text	object that can be "read" by reader; result of writing
+basis = basis	subset of a vector space, such that every vector is uniquely expressible as a linear combination over this set of vectors
+
+
+53: Mauritania, on behalf of the G-77/China, stressed that lack of funding and support for inventory compilation and national communications significantly influenced accuracy of the data and the rate at which progress was being made.
+
+REL: span, entity
+Mauritania = Mauritania
+G-77 = Group_of_77
+China = China
+
+Spacy Entity Linker: span, entity, description
+Mauritania = Mauritania	Islamic republic in Africa
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+China = People's Republic of China	state in East Asia
+lack = Ex nihilo	Latin phrase meaning "out of nothing"
+funding = funding	act of providing resources
+support = support	part of the domain of a mathematical function
+inventory = inventory	goods held for resale
+communications = communication	act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+accuracy = accuracy and precision	Closeness to true value or to each other
+data = data	facts represented for handling
+rate = rate	quantity of process intensivity (mathematics)
+progress = OpenEdge Advanced Business Language	business application development language
+
+
+54: The US supported one decision for both and, with JAPAN, opposed compensation for adverse effects.
+
+REL: span, entity
+US = United_States
+JAPAN = Japan
+
+Spacy Entity Linker: span, entity, description
+US = United States of America	federal republic in North America
+decision = decision	legislative act of the European Union
+JAPAN = Japan	constitutional monarchy in East Asia
+compensation = compensation	psychological strategy
+adverse effects = adverse effect	undesired harmful effect resulting from a medication or other medical intervention
+
+
+55: The US, supported by Canada, opposed translating preambular text from the Bonn Agreements into an operational paragraph.
+
+REL: span, entity
+US = United_States
+Canada = Canada
+
+Spacy Entity Linker: span, entity, description
+US = United States of America	federal republic in North America
+Canada = Canada	country in North America
+text = text	object that can be "read" by reader; result of writing
+Bonn = Bonn	city in Germany, former capital
+paragraph = paragraph	a portion of text composed of one or more sentences
+
+
+56: China, supported by Venezuela, Papua New Guinea, United Arab Emirates, Brazil, Nigeria and Bahrain, expressed sympathy for Tuvalu's proposal, but opposed discussing proposed Protocol amendments that “do not enhance the Protocol.”
+
+REL: span, entity
+China = China
+Venezuela = Venezuela
+Papua New Guinea = Papua_New_Guinea
+United Arab Emirates = United_Arab_Emirates
+Brazil = Brazil
+Nigeria = Nigeria
+Bahrain = Bahrain
+Tuvalu = Tuvalu
+Protocol = Treaty
+Protocol = Treaty
+
+Spacy Entity Linker: span, entity, description
+China = People's Republic of China	state in East Asia
+Venezuela = Venezuela	Bolivarian republic in northern South America
+Papua New Guinea = Papua New Guinea	constitutional monarchy in Oceania
+United Arab Emirates = United Arab Emirates	monarchy in Southwest Asia
+Brazil = Brazil	federal republic in South America
+Nigeria = Nigeria	federal republic in West Africa
+Bahrain = Bahrain	constitutional monarchy in Southwest Asia
+sympathy = sympathy	perception, understanding, and reaction to the distress or need of another human being
+proposal = research proposal	description of planned research for which funding is requested
+Tuvalu = Tuvalu	country in Oceania
+amendments = amendment	change to a statute or other legal document
+Protocol = Protocol	1984 comedy film that starred Goldie Hawn and Chris Sarandon. The screenplay was by Buck Henry and it was directed by Herbert Ross
+
+
+57: OTHER MATTERS: Cleaner or less greenhouse gas-emitting energy: CANADA proposed draft decision text supported by NEW ZEALAND, POLAND, the RUSSIAN FEDERATION and SLOVENIA, and opposed by SAUDI ARABIA for the G-77/CHINA, SWITZERLAND, and the US.
+
+REL: span, entity
+CANADA = Canada
+NEW ZEALAND = New_Zealand
+POLAND = Poland
+RUSSIAN = Russia
+SLOVENIA = Slovenia
+SAUDI ARABIA = Saudi_Arabia
+CHINA = China
+SWITZERLAND = Switzerland
+US = United_States
+
+Spacy Entity Linker: span, entity, description
+MATTERS = MATTER	
+energy = energy	quantitative physical property transferred to objects to perform heating or work on them
+text = text	object that can be "read" by reader; result of writing
+NEW ZEALAND = New Zealand	constitutional monarchy in Oceania
+POLAND = Poland	republic in Central Europe
+RUSSIAN FEDERATION = Russia	transcontinental country in Eastern Europe and Northern Asia
+SLOVENIA = Slovenia	republic in Central Europe
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+CHINA = People's Republic of China	state in East Asia
+SWITZERLAND = Switzerland	federal republic in Central Europe
+US = United States of America	federal republic in North America
+
+
+58: On a paragraph on preparation of a negotiating text by May 2015, the EU, supported by SWITZERLAND and the MARSHALL ISLANDS, and opposed by the LMDCs and CANADA, supported maintaining a reference to Article 17 of the Convention (protocols).
+
+REL: span, entity
+EU = European_Union
+SWITZERLAND = Switzerland
+MARSHALL ISLANDS = Marshall_Islands
+CANADA = Canada
+Convention = European_Convention_on_Human_Rights
+
+Spacy Entity Linker: span, entity, description
+paragraph = paragraph	a portion of text composed of one or more sentences
+preparation = preparation	activity of achieving readiness for some event or activity
+text = text	object that can be "read" by reader; result of writing
+May = May	fifth month in the Julian and Gregorian calendars
+EU = European Union	economic and political union of states mostly located in Europe
+SWITZERLAND = Switzerland	federal republic in Central Europe
+MARSHALL ISLANDS = Marshall Islands	country in Oceania
+CANADA = Canada	country in North America
+reference = reference	relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+Article = article	word used with a noun to indicate the type of reference being made by the noun; one of word classes
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+protocols = standard operating procedure	set of step-by-step instructions compiled by an organization to help workers carry out routine operations
+
+
+59: CHINA, supported by BOTSWANA and SENEGAL, and opposed by the EU and SRI LANKA, proposed that NGOs only be allowed to make submissions on the work programme if requested to do so by their national focal points.
+
+REL: span, entity
+CHINA = China
+BOTSWANA = Botswana
+SENEGAL = Senegal
+EU = European_Union
+SRI LANKA = Sri_Lanka
+NGOs = Non-governmental_organization
+
+Spacy Entity Linker: span, entity, description
+CHINA = People's Republic of China	state in East Asia
+BOTSWANA = Botswana	republic in southern Africa
+SENEGAL = Senegal	country in Western Africa
+EU = European Union	economic and political union of states mostly located in Europe
+SRI LANKA = Sri Lanka	island republic in South Asia
+NGOs = non-governmental organization	organization that is neither a part of a government nor a conventional for-profit business
+submissions = deference	condition of submitting to the espoused, legitimate influence of one's superior or superiors
+work programme = Work Programme	UK welfare to work scheme
+focal points = focal point	concept in game theory
+
+
+60: NEW ZEALAND, supported by CANADA, and opposed by the EU and JAPAN, suggested text noting that the conclusions complete the work under the agenda sub-item.
+
+REL: span, entity
+NEW ZEALAND = New_Zealand
+CANADA = Canada
+EU = Europe
+JAPAN = Japan
+
+Spacy Entity Linker: span, entity, description
+NEW ZEALAND = New Zealand	constitutional monarchy in Oceania
+CANADA = Canada	country in North America
+EU = European Union	economic and political union of states mostly located in Europe
+JAPAN = Japan	constitutional monarchy in East Asia
+text = text	object that can be "read" by reader; result of writing
+conclusions = conclusion	ending of a musical composition that may take the form of a coda or outro
+work = work	process or amount (and direction) of energy transfer to an object via the application of forces on it through a displacement
+sub = submarine	watercraft capable of independent operation underwater
+- = hyphen	punctuation mark used to join words
+item = item	object within a game that can be collected
+
+
+61: Inclusion of CCS under the CDM was supported by Australia, Saudi Arabia and others, but opposed by Brazil, Ethiopia, Grenada and others.
+
+REL: span, entity
+CCS = Carbon_capture_and_storage
+CDM = Coalition_for_a_Democratic_Majority
+Australia = Australia
+Saudi Arabia = Saudi_Arabia
+Brazil = Brazil
+Ethiopia = Ethiopia
+Grenada = Grenada
+
+Spacy Entity Linker: span, entity, description
+Inclusion = inclusion	inclusions in minerals
+CCS = Combined Charging System	charging method for electric vehicles
+CDM = cold dark matter	dark matter
+Australia = Australia	country in Oceania
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+Brazil = Brazil	federal republic in South America
+Ethiopia = Ethiopia	country in East Africa
+Grenada = Grenada	country in the Caribbean
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+
+
+62: The African Group, with China, for the LMDCs, and others, opposed by the EU and others, favored the mention "by the first quarter of 2015" and endeavor to do so as soon as possible thereafter.
+
+REL: span, entity
+African Group = Africa
+China = China
+EU = Europe
+
+Spacy Entity Linker: span, entity, description
+African Group = African Group	
+China = People's Republic of China	state in East Asia
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+EU = European Union	economic and political union of states mostly located in Europe
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+mention = Mention	means by which a blog post references or links to a user's profile
+quarter = quarter	United States coin
+
+
+63: Saudi Arabia suggested bracketing “a quantifiable mitigation component” and, with Turkey, opposed reference to “evolving” national circumstances.
+
+REL: span, entity
+Saudi Arabia = Saudi_Arabia
+Turkey = Turkey
+
+Spacy Entity Linker: span, entity, description
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+component = electronic component	basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields
+Turkey = Turkey	country spanning Western Asia and Southeastern Europe
+reference = reference	relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+circumstances = condition	state or circumstances of some object or event
+
+
+64: However, Saudi Arabia, with India, Venezuela, Algeria, Kuwait, Oman, Nigeria, Ecuador and China, opposed a contact group and preferred that the COP President or a Vice-President hold informal consultations.
+
+REL: span, entity
+Saudi Arabia = Saudi_Arabia
+India = India
+Venezuela = Venezuela
+Algeria = Algeria
+Kuwait = Kuwait
+Oman = Oman
+Nigeria = Nigeria
+Ecuador = Ecuador
+China = China
+
+Spacy Entity Linker: span, entity, description
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+India = India	federal republic in South Asia
+Venezuela = Venezuela	Bolivarian republic in northern South America
+Algeria = Algeria	country in North Africa
+Kuwait = Kuwait	state in Western Asia
+Oman = Oman	country in Western Asia
+Nigeria = Nigeria	federal republic in West Africa
+Ecuador = Ecuador	country in South America
+China = People's Republic of China	state in East Asia
+contact group = Contact Group	
+President = Zhong Chenle	Chinese singer, songwriter, dancer, and actor based in Seoul, South Korea
+Vice = Vice	2018 film by Adam McKay
+- = hyphen	punctuation mark used to join words
+President = Zhong Chenle	Chinese singer, songwriter, dancer, and actor based in Seoul, South Korea
+consultations = Consultation	provisional government of Mexican Texas from November 1835 through March 1836 during the Texas Revolution
+
+
+65: Major differences remained, with developed countries supporting endorsement and continuation of the EGTT, while G-77/CHINA stated that EGTT is not sufficient and advocated a new body under the Convention, as well as means for monitoring implementation of Convention Article 4.5 (technology transfer).
+
+REL: span, entity
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+differences = cadency	system of elements used to distinguish otherwise identical coats of arms belonging to members of the same family
+developed countries = developed country	country with a developed industry and infrastructure
+continuation = continuation	in computer science, a data structure that represents the computational process at a given point in the process's execution
+CHINA = People's Republic of China	state in East Asia
+body = cadaver	dead human body
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+means = mean	general term for the several definitions of mean value, the sum divided by the count
+implementation = implementation	realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+technology transfer = technology transfer	
+
+
+66: The EU, with AUSTRALIA, and opposed by MALAYSIA, CHINA and ARGENTINA, said the report provided a sound basis to initiate the revised UNFCCC guidelines.
+
+REL: span, entity
+EU = Europe
+AUSTRALIA = Australia
+MALAYSIA = Malaysia
+CHINA = China
+ARGENTINA = Argentina
+UNFCCC = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+AUSTRALIA = Australia	country in Oceania
+MALAYSIA = Malaysia	federal constitutional monarchy in Southeast Asia
+CHINA = People's Republic of China	state in East Asia
+ARGENTINA = Argentina	federal republic in South America
+report = report	informational, formal, and detailed text
+basis = basis	subset of a vector space, such that every vector is uniquely expressible as a linear combination over this set of vectors
+guidelines = guideline	statement by which to determine a course of action
+
+
+67: CHINA, with SOUTH AFRICA, specified that Protocol Article 18 (compliance) refers to "binding consequences" and opposed the proposed terminology change.
+
+REL: span, entity
+CHINA = China
+SOUTH AFRICA = South_Africa
+
+Spacy Entity Linker: span, entity, description
+CHINA = People's Republic of China	state in East Asia
+SOUTH AFRICA = South Africa	republic in Southern Africa
+Protocol = Protocol	1984 comedy film that starred Goldie Hawn and Chris Sarandon. The screenplay was by Buck Henry and it was directed by Herbert Ross
+compliance = compliance	ability of a biological organ to distend
+consequences = consequent	Hypothetical proposition component
+terminology = terminology	study of terms and their use
+
+
+68: On the inclusion of activities in decision 7/CP.7 (funding under the UNFCCC), particularly on economic diversification, the EU, with NORWAY, opposed by the G-77/CHINA, called for the deletion of the reference.
+
+REL: span, entity
+UNFCCC = United_Nations_Framework_Convention_on_Climate_Change
+EU = Europe
+NORWAY = Norway
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+inclusion = inclusion	inclusions in minerals
+activities = human activity	activity initiated by a human
+decision = decision	legislative act of the European Union
+funding = funding	act of providing resources
+diversification = diversification	marketing strategy
+EU = European Union	economic and political union of states mostly located in Europe
+NORWAY = Norway	constitutional monarchy in Northern Europe
+CHINA = People's Republic of China	state in East Asia
+deletion = elision	omission of one or more sounds in a word or phrase
+reference = reference	relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+
+
+69: Japan proposed deleting the paragraph, opposed by the African Group and Mexico, who underscored lack of agreement on the scope of INDCs.
+
+REL: span, entity
+Japan = Japan
+African Group = Africa
+Mexico = Mexico
+
+Spacy Entity Linker: span, entity, description
+Japan = Japan	constitutional monarchy in East Asia
+paragraph = paragraph	a portion of text composed of one or more sentences
+African Group = African Group	
+Mexico = Mexico	federal republic in the southern portion of North America
+lack = Ex nihilo	Latin phrase meaning "out of nothing"
+agreement = contract	agreement having a lawful object entered into voluntarily by multiple parties (may be explicitly written or oral)
+scope = oscilloscope	type of electronic test instrument
+
+
+70: PROTOCOL ARTICLE 2.3 (ADVERSE EFFECTS): Delegates were unable to agree on this agenda item, with SAUDI ARABIA and KUWAIT urging a contact group discussion, opposed by the EU and JAPAN.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+KUWAIT = Kuwait
+EU = European_Union
+JAPAN = Japan
+
+Spacy Entity Linker: span, entity, description
+ARTICLE = article	word used with a noun to indicate the type of reference being made by the noun; one of word classes
+ADVERSE EFFECTS = adverse effect	undesired harmful effect resulting from a medication or other medical intervention
+Delegates = Delegate	town in New South Wales, Australia
+agenda = agenda	plan for meeting
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+KUWAIT = Kuwait	state in Western Asia
+contact = contact lens	lens worn directly on the eye
+EU = European Union	economic and political union of states mostly located in Europe
+JAPAN = Japan	constitutional monarchy in East Asia
+
+
+71: The section on minimization of adverse impacts under Article 3.14 (adverse effects) was not agreed, with SAUDI ARABIA, opposed by JAPAN and others, suggesting that Parties "shall" rather than "are requested to" provide information.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+JAPAN = Japan
+
+Spacy Entity Linker: span, entity, description
+section = section	military unit size designation
+minimization = minification	process of removing all unnecessary characters from source code without changing its functionality
+impacts = impact	high force or shock applied over a short time period when two or more bodies collide
+Article = article	word used with a noun to indicate the type of reference being made by the noun; one of word classes
+adverse effects = adverse effect	undesired harmful effect resulting from a medication or other medical intervention
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+JAPAN = Japan	constitutional monarchy in East Asia
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+Parties = The Party	1968 comedy film directed by Blake Edwards
+information = information	that which informs; the answer to a question of some kind; that from which data and knowledge can be derived
+
+
+72: AUSTRALIA reiterated her country's support for a legally-binding outcome, and flexibility concerning a single new protocol or a combination that involves the continuation of the Kyoto Protocol.
+
+REL: span, entity
+AUSTRALIA = Australia
+Kyoto Protocol = Kyoto_Protocol
+
+Spacy Entity Linker: span, entity, description
+AUSTRALIA = Australia	country in Oceania
+support = support	part of the domain of a mathematical function
+country = country within the United Kingdom	one of four constituent parts of the United Kingdom:  England, Wales, Scotland and Northern Ireland
+outcome = outcome	possible result of an experiment
+flexibility = flexibility	range of motion in a joint
+protocol = standard operating procedure	set of step-by-step instructions compiled by an organization to help workers carry out routine operations
+combination = combination	way of selecting things out of a group where order does not matter
+continuation = continuation	in computer science, a data structure that represents the computational process at a given point in the process's execution
+Kyoto Protocol = Kyoto Protocol	international treaty to reduce greenhouse gas emissions
+
+
+73: CHINA reiterated the G-77/China's preference for a gas-by-gas approach.
+
+REL: span, entity
+CHINA = China
+G-77 = Group_of_77
+China = China
+
+Spacy Entity Linker: span, entity, description
+CHINA = People's Republic of China	state in East Asia
+preference = preference	escape value city
+China = People's Republic of China	state in East Asia
+approach = means	means by which an item performs a function
+gas = gasoline	transparent, petroleum-derived liquid that is used primarily as a fuel
+gas = gasoline	transparent, petroleum-derived liquid that is used primarily as a fuel
+
+
+74: The EU, supported by the US and SWITZERLAND, stressed that the focus of workstream 2 should remain on mitigation.
+
+REL: span, entity
+EU = European_Union
+US = United_States
+SWITZERLAND = Switzerland
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+US = United States of America	federal republic in North America
+SWITZERLAND = Switzerland	federal republic in Central Europe
+focus = focus	point where light rays originating from a point converge on an object
+mitigation = mitigation	in law, the principle that a party who suffers loss must take action to minimize the amount of loss
+
+
+75: SAUDI ARABIA, with NIGERIA and KUWAIT but opposed by ARGENTINA, CHILE and others, called for consideration of adaptation to response measures and inclusion of economic diversification in the programme of work.
+
+REL: span, entity
+SAUDI ARABIA = Saudi_Arabia
+NIGERIA = Nigeria
+KUWAIT = Kuwait
+ARGENTINA = Argentina
+CHILE = Chile
+
+Spacy Entity Linker: span, entity, description
+SAUDI ARABIA = Saudi Arabia	kingdom in Western Asia
+NIGERIA = Nigeria	federal republic in West Africa
+KUWAIT = Kuwait	state in Western Asia
+ARGENTINA = Argentina	federal republic in South America
+CHILE = Chile	republic in South America
+others = other	philosophical, psychological and anthropological concept that refers to the opposite of one's own identity
+consideration = consideration	concept of legal value in connection with contracts
+adaptation = adaptation	evolutionary process that fits organisms to their environment, adaptive trait, or state reached by an evolving population
+measures = measure	mathematical function which associates a comparable numeric value to some subsets of a given set
+inclusion = inclusion	inclusions in minerals
+diversification = diversification	marketing strategy
+programme = plan	outline of a strategy for achievement of an objective
+work = work	process or amount (and direction) of energy transfer to an object via the application of forces on it through a displacement
+
+
+76: Sudan, for the G-77/CHINA, requested confirmation that the chairs of the open-ended drafting groups would be the chairs and facilitators who had already been working on these issues under the AWG.
+
+REL: span, entity
+Sudan = Sudan
+G-77 = Group_of_77
+CHINA = China
+AWG = American_wire_gauge
+
+Spacy Entity Linker: span, entity, description
+Sudan = Sudan	country in Northeast Africa
+CHINA = People's Republic of China	state in East Asia
+confirmation = confirmation	rite where baptism is confirmed in several Christian denominations
+chairs = chairperson	leading or presiding officer of an organized group such as a board, committee, or deliberative assembly
+drafting = conscription	compulsory enlistment into national or military service
+chairs = chairperson	leading or presiding officer of an organized group such as a board, committee, or deliberative assembly
+facilitators = supervisor	manager in a business or event
+issues = issue	genealogical and legal term referring to one's lineal descendants
+AWG = American wire gauge	unit of length
+
+
+77: The EU noted progress in addressing the technical basis of the proposal, but identified several outstanding issues.
+
+REL: span, entity
+EU = Europe
+
+Spacy Entity Linker: span, entity, description
+EU = European Union	economic and political union of states mostly located in Europe
+progress = OpenEdge Advanced Business Language	business application development language
+basis = basis	subset of a vector space, such that every vector is uniquely expressible as a linear combination over this set of vectors
+proposal = research proposal	description of planned research for which funding is requested
+issues = issue	genealogical and legal term referring to one's lineal descendants
+
+
+78: China said the IPCC should not give instructions on reporting to sovereign States, but agreed to accept the Chair's suggestion.
+
+REL: span, entity
+China = China
+IPCC = Intergovernmental_Panel_on_Climate_Change
+sovereign States = Sovereignty
+Chair = Chairperson
+
+Spacy Entity Linker: span, entity, description
+China = People's Republic of China	state in East Asia
+IPCC = Intergovernmental Panel on Climate Change	scientific intergovernmental body
+instructions = user guide	technical communication document
+reporting = journalism	investigation and reporting of events, issues and trends to a broad audience
+sovereign States = sovereign state	political organization with a centralized independent government
+suggestion = suggestion	psychological process by which one person guides the thoughts, feelings, or behavior of another person
+Chair = Chair	public artwork designed as an advertisement by Bassett Furniture
+
+
+79: LATVIA supported the EU proposal for a Buenos Aires work plan.
+
+REL: span, entity
+LATVIA = Latvia
+EU = European_Union
+Buenos Aires = Buenos_Aires
+
+Spacy Entity Linker: span, entity, description
+LATVIA = Latvia	republic in Northern Europe
+EU = European Union	economic and political union of states mostly located in Europe
+work = work	process or amount (and direction) of energy transfer to an object via the application of forces on it through a displacement
+
+
+80: Bangladesh, on behalf of LDCs, called for compensation for damages caused by climate change, supported adaptation efforts and NAPA implementation.
+
+REL: span, entity
+Bangladesh = Bangladesh
+LDCs = Least_Developed_Countries
+NAPA = Napa,_California
+
+Spacy Entity Linker: span, entity, description
+Bangladesh = Bangladesh	sovereign country in South Asia
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+LDCs = Least Developed Countries	List of countries that exhibits the lowest indicators of socioeconomic development
+compensation = compensation	psychological strategy
+damages = damages	legal term for compensation awarded for loss or injury
+climate change = global warming	rise in the average temperature of Earth's atmosphere and oceans since the late 19th century and its projected continuation
+adaptation = adaptation	evolutionary process that fits organisms to their environment, adaptive trait, or state reached by an evolving population
+NAPA = acetaminophen	common drug for pain and fever
+
+
+81: BRAZIL, supported by AUSTRALIA, the US and SWITZERLAND, suggested noting health co-benefits of mitigation policies.
+
+REL: span, entity
+BRAZIL = Brazil
+AUSTRALIA = Australia
+US = United_States
+SWITZERLAND = Switzerland
+
+Spacy Entity Linker: span, entity, description
+BRAZIL = Brazil	federal republic in South America
+AUSTRALIA = Australia	country in Oceania
+US = United States of America	federal republic in North America
+SWITZERLAND = Switzerland	federal republic in Central Europe
+health = health	level of functional or metabolic efficiency of a living being
+- = hyphen	punctuation mark used to join words
+benefits = yield	financial
+mitigation = mitigation	in law, the principle that a party who suffers loss must take action to minimize the amount of loss
+
+
+82: YUGOSLAVIA, opposed by the EU, said it could not support Croatia's 1990 baseline proposal.
+
+REL: span, entity
+YUGOSLAVIA = Yugoslavia
+EU = European_Union
+Croatia = Croatia
+
+Spacy Entity Linker: span, entity, description
+YUGOSLAVIA = Yugoslavia	1918–1992 country in Southeastern and Central Europe
+EU = European Union	economic and political union of states mostly located in Europe
+baseline = status quo	Latin term meaning the existing state of affairs
+Croatia = Croatia	republic in Central Europe
+
+
+83: Saudi Arabia and Kuwait did not support this proposal since it would impose new conditionalities on developing countries.
+
+REL: span, entity
+Saudi Arabia = Saudi_Arabia
+Kuwait = Kuwait
+
+Spacy Entity Linker: span, entity, description
+Saudi Arabia = Saudi Arabia	kingdom in Western Asia
+Kuwait = Kuwait	state in Western Asia
+proposal = research proposal	description of planned research for which funding is requested
+conditionalities = conditionality	use of conditions attached to the provision of benefits such as a loan, debt relief or bilateral aid
+developing countries = developing country	nation with a low living standard relative to other countries
+
+
+84: Sweden, supported by the Russian Federation and Belgium, and opposed by Oman and Nigeria, called for a dialogue on developing country commitments.
+
+REL: span, entity
+Sweden = Sweden
+Russian Federation = Russia
+Belgium = Belgium
+Oman = Oman
+Nigeria = Nigeria
+
+Spacy Entity Linker: span, entity, description
+Sweden = Sweden	constitutional monarchy in Northern Europe
+Russian Federation = Russia	transcontinental country in Eastern Europe and Northern Asia
+Belgium = Belgium	federal constitutional monarchy in Western Europe
+Oman = Oman	country in Western Asia
+Nigeria = Nigeria	federal republic in West Africa
+dialogue = dialogue	conversation between two or more people
+country = country within the United Kingdom	one of four constituent parts of the United Kingdom:  England, Wales, Scotland and Northern Ireland
+
+
+85: France, on behalf of the EU, accepted this compromise, and added a footnote to paragraph 2(b) that a reference to communications include regional economic integration organizations included in the Convention.
+
+REL: span, entity
+France = France
+EU = European_Union
+
+Spacy Entity Linker: span, entity, description
+France = France	republic with mainland in Europe and numerous oversea territories
+behalf = Behalf	Behalf offers short-term financing with flexible repayment terms to U.S. based businesses
+EU = European Union	economic and political union of states mostly located in Europe
+compromise = compromise	type of dispute resolution where each party gives up part of their demand to reach a solution they can all agree on
+footnote = Footnote	2011 film by Joseph Cedar
+reference = reference	relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+communications = communication	act of conveying intended meanings from one entity or group to another through the use of mutually understood signs and rules
+integration = integral	operation in calculus
+Convention = convention	meeting of a (usually large) group of individuals and/or companies in a certain field
+paragraph = paragraph	a portion of text composed of one or more sentences
+
+
+86: Australia supported annual emissions updates, but recommended that the COP define comparable reporting years.
+
+REL: span, entity
+Australia = Australia
+COP = United_Nations_Framework_Convention_on_Climate_Change
+
+Spacy Entity Linker: span, entity, description
+Australia = Australia	country in Oceania
+emissions = emission	radiation or radio signal produced or emitted by a radio transmitting station
+COP = cryptogenic organizing pneumonia	Inflammation of the bronchioles (bronchiolitis) and surrounding tissue in the lungs
+reporting = journalism	investigation and reporting of events, issues and trends to a broad audience
+
+
+87: Jamaica and Mexico urged countries not to support annual emissions updates. France, opposed by Germany did not support this proposal.
+
+REL: span, entity
+Jamaica = Jamaica
+Mexico = Mexico
+France = France
+Germany = Germany
+
+Spacy Entity Linker: span, entity, description
+Jamaica = Jamaica	country in the Caribbean
+Mexico = Mexico	federal republic in the southern portion of North America
+countries = country	distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics
+emissions = emission	radiation or radio signal produced or emitted by a radio transmitting station
+France = France	republic with mainland in Europe and numerous oversea territories
+Germany = Germany	federal parliamentary republic in central-western Europe
+proposal = research proposal	description of planned research for which funding is requested
+
+
+88: Japan supported by Croatia and opposed by France expressed sympathy for Tuvalu's proposoal. Tuvalu, supported by the EU said that they opposed compensation for adverse effects.
+
+REL: span, entity
+Japan = Japan
+Croatia = Croatia
+France = France
+Tuvalu = Tuvalu
+Tuvalu = Tuvalu
+EU = Europe
+
+Spacy Entity Linker: span, entity, description
+Japan = Japan	constitutional monarchy in East Asia
+Croatia = Croatia	republic in Central Europe
+France = France	republic with mainland in Europe and numerous oversea territories
+sympathy = sympathy	perception, understanding, and reaction to the distress or need of another human being
+Tuvalu = Tuvalu	country in Oceania
+Tuvalu = Tuvalu	country in Oceania
+EU = European Union	economic and political union of states mostly located in Europe
+compensation = compensation	psychological strategy
+adverse effects = adverse effect	undesired harmful effect resulting from a medication or other medical intervention
+
+
+89: Guatemala, for AILAC, supported by NORWAY and the US, suggested asking facilitators to propose bridging text, which the G-77/CHINA suggested be captured in another document.
+
+REL: span, entity
+Guatemala = Guatemala
+NORWAY = Norway
+US = United_States
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+Guatemala = Guatemala	republic in Central America
+NORWAY = Norway	constitutional monarchy in Northern Europe
+US = United States of America	federal republic in North America
+facilitators = supervisor	manager in a business or event
+text = text	object that can be "read" by reader; result of writing
+CHINA = People's Republic of China	state in East Asia
+document = document	preserved information
+
+
+90: Guatemala, for AILAC, supported by NORWAY and the US, asked facilitators to propose bridging text, which the G-77/CHINA suggested be captured in another document.
+
+REL: span, entity
+Guatemala = Guatemala
+NORWAY = Norway
+US = United_States
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+Guatemala = Guatemala	republic in Central America
+NORWAY = Norway	constitutional monarchy in Northern Europe
+US = United States of America	federal republic in North America
+facilitators = supervisor	manager in a business or event
+text = text	object that can be "read" by reader; result of writing
+CHINA = People's Republic of China	state in East Asia
+document = document	preserved information
+
+
+91: TIMOR-LESTE, opposed by SAMOA, the EU, the US and NEW ZEALAND, proposed moving towards “implementation of decision 8/CP4” (procedures and mechanisms on compliance) rather than towards “negotiations.”
+
+REL: span, entity
+TIMOR-LESTE = East_Timor
+SAMOA = Samoa
+EU = Europe
+US = United_States
+NEW ZEALAND = New_Zealand
+
+Spacy Entity Linker: span, entity, description
+TIMOR-LESTE = East Timor	country in South East Asia
+SAMOA = Samoa	country in Oceania
+EU = European Union	economic and political union of states mostly located in Europe
+US = United States of America	federal republic in North America
+NEW ZEALAND = New Zealand	constitutional monarchy in Oceania
+implementation = implementation	realization of an application, or execution of a plan, idea, model, design, specification, standard, algorithm, or policy
+decision = decision	legislative act of the European Union
+procedures = subroutine	sequence of computer instructions that can be called from other points in a program
+mechanisms = mechanism	device designed to transform input forces and movement into a desired set of output forces and movement
+compliance = compliance	ability of a biological organ to distend
+negotiations = negotiation	dialogue between two or more people or parties intended to reach a beneficial outcome
+
+
+92: NORWAY suggested that the ADP Co-Chairs prepare a reflection note for the Presidency, which the G-77/CHINA opposed at this time.
+
+REL: span, entity
+NORWAY = Norway
+ADP = Adenosine_diphosphate
+G-77 = Group_of_77
+CHINA = China
+
+Spacy Entity Linker: span, entity, description
+NORWAY = Norway	constitutional monarchy in Northern Europe
+Co = cobalt	element with the atomic number of 27
+- = hyphen	punctuation mark used to join words
+reflection = critical thinking	the analysis of facts to form a judgment
+Presidency = presidency	collective administrative and governmental entity that exists around an office of president
+CHINA = People's Republic of China	state in East Asia
+time = time	dimension in which events can be ordered from the past through the present into the future
+
+
+93: She suggested that the deadline for the ADP could be extended, which NORWAY and the US opposed.
+
+REL: span, entity
+ADP = Adenosine_diphosphate
+NORWAY = Norway
+US = United_States
+
+Spacy Entity Linker: span, entity, description
+deadline = time limit	point in time by which an objective or task must be accomplished
+ADP = Automatic Data Processing	company
+NORWAY = Norway	constitutional monarchy in Northern Europe
+US = United States of America	federal republic in North America
+
+
+94: JAPAN, opposed by the UK, said there were actual and potential methods of estimating emissions and proposed a new paragraph under which the COP would affirm the actual method for including HFC, PFC and SF6 emissions in QELROs.
+
+REL: span, entity
+JAPAN = Japan
+UK = United_Kingdom
+COP = United_Nations_Framework_Convention_on_Climate_Change
+HFC = Organofluorine_chemistry
+PFC = Fluorocarbon
+
+Spacy Entity Linker: span, entity, description
+JAPAN = Japan	constitutional monarchy in East Asia
+UK = United Kingdom	constitutional monarchy in Western Europe; formed in 1927
+methods = subroutine	sequence of computer instructions that can be called from other points in a program
+emissions = emission	radiation or radio signal produced or emitted by a radio transmitting station
+paragraph = paragraph	a portion of text composed of one or more sentences
+COP = cryptogenic organizing pneumonia	Inflammation of the bronchioles (bronchiolitis) and surrounding tissue in the lungs
+method = subroutine	sequence of computer instructions that can be called from other points in a program
+emissions = emission	radiation or radio signal produced or emitted by a radio transmitting station
+HFC = Hibernian F.C.	association football club in Edinburgh, Scotland
+PFC = prefrontal cortex	Part of brain largely responsible for personality, decision making, and social behaviour
+SF6 = sulfur hexafluoride	chemical compound, non-toxic, climate-damaging gas
+
+
