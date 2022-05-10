@@ -130,3 +130,6 @@ The app is made of two pages:
 - A `network graph` showing collaborations between countries  
 - Two `bar plots` showing the main actors in the filtered database and how propositions appear over time.  
 - Two `circular plots` showing which clusters are most frequent in the corpus, and which types of predicates are most present.  
+
+#### Credits
+files actors.xml, preds_nominal.xml, preds_verbal.xml are taken from Ruiz's work (2017). See his gitHub repo : https://github.com/pruizf/pasrl/tree/master/proposition_extraction/data

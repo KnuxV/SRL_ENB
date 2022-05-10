@@ -4,6 +4,8 @@ Triple classes,  class system where we store the results of the Semantic role la
 import copy
 import itertools
 import re
+from typing import List, Optional
+
 import pandas as pd
 from collections import defaultdict
 
@@ -59,13 +61,14 @@ class Predicate:
     Predicate class
     """
 
-    def __init__(self, name: str, lemma="", typ="", neg=False, dep="", is_head_root=False):
-        self.name = name
-        self.lemma = lemma
-        self.typ = typ
-        self.neg = neg
-        self.dep = dep
-        self.is_head_root = is_head_root
+    def __init__(self, name: str, lemma="", typ="", neg=False, dep="",
+                 is_head_root=False):
+        self.name: str = name
+        self.lemma: str = lemma
+        self.typ: str = typ
+        self.neg: bool = neg
+        self.dep: str = dep
+        self.is_head_root: bool = is_head_root
 
     def __eq__(self, other):
         if not isinstance(other, Predicate):
@@ -106,7 +109,7 @@ class Message:
     """
 
     def __init__(self, message: str):
-        self.message = message
+        self.message: str = message
         self.keywords = []
 
     def __eq__(self, other):
@@ -139,11 +142,12 @@ class Triple:
     is different
     """
 
-    def __init__(self, actor: Actor, predicate: Predicate, message: Message, sentence: str):
-        self.actor = actor
-        self.predicate = predicate
-        self.message = message
-        self.sentence = sentence
+    def __init__(self, actor: Actor, predicate: Predicate, message: Message,
+                 sentence: str):
+        self.actor: Actor = actor
+        self.predicate: Predicate = predicate
+        self.message: Message = message
+        self.sentence: str = sentence
 
     def __eq__(self, other):
         if not isinstance(other, Triple):
@@ -157,7 +161,8 @@ class Triple:
         # return self.actor != other.actor or self.predicate != other.predicate or self.message != other.message
 
     def __str__(self):
-        return str(self.actor) + "\t" + str(self.predicate) + "\t" + str(self.message)
+        return str(self.actor) + "\t" + str(self.predicate) + "\t" + str(
+            self.message)
 
     def __hash__(self):
         return id(self.actor) + id(self.predicate) + id(self.message)
@@ -207,13 +212,14 @@ class Triple:
 class Sentence:
     """
     Sentence class
-    A Sentence class countains the sentence as a string and a list of triples (aka propositions)
+    A Sentence class contains the sentence as a string and a list of triples
+    (aka propositions)
     """
 
     def __init__(self, sentence: str, num_sentence: int):
-        self.sentence = sentence
-        self.num_sentence = num_sentence
-        self.lst_triples = []
+        self.sentence: Optional[str] = sentence
+        self.num_sentence: Optional[int] = num_sentence
+        self.lst_triples: Optional[List[Triple]] = []
 
     def __str__(self):
         return self.sentence
@@ -300,11 +306,11 @@ class Text:
     Sentences must be in the right order
     """
 
-    def __init__(self, name: str, year: int, num: str):
-        self.name = name
-        self.year = year
-        self.num = num
-        self.lst_sentence = []
+    def __init__(self, name: str, year: Optional[int], num: str):
+        self.name: Optional[str] = name
+        self.year: Optional[int] = year
+        self.num: Optional[str] = num
+        self.lst_sentence: Optional[List[Sentence]] = []
 
     def get_name(self):
         return self.name
@@ -445,7 +451,8 @@ class Text:
                 exit_list.append(lst)
         print(len(exit_list))
         df = pd.DataFrame(exit_list,
-                          columns=['Actor', 'Neg', 'Predicate', 'Type', 'Message', 'Keywords', 'Sentence', 'Year',
+                          columns=['Actor', 'Neg', 'Predicate', 'Type',
+                                   'Message', 'Keywords', 'Sentence', 'Year',
                                    'Num'])
         if save_pkl_path:
             df.to_pickle(save_pkl_path)
@@ -487,10 +494,12 @@ class Text:
                 num = self.get_num()
                 str_actor_opp = ", ".join(actor_opp)
                 str_actor_sup = ", ".join(actor_sup)
-                lst = [str_actor_sup, str_actor_opp, p, p_t, m, str_keywords, s, y, num]
+                lst = [str_actor_sup, str_actor_opp, p, p_t, m, str_keywords, s,
+                       y, num]
                 exit_list.append(lst)
         df = pd.DataFrame(exit_list,
-                          columns=['Actor_Support', 'Actor_Opposition', 'Predicate', 'Type', 'Message', 'Keywords',
+                          columns=['Actor_Support', 'Actor_Opposition',
+                                   'Predicate', 'Type', 'Message', 'Keywords',
                                    'Sentence', 'Year', 'Num'])
         if save_pkl_path:
             df.to_pickle(save_pkl_path)
@@ -499,13 +508,20 @@ class Text:
     def doc_to_text(self, output_path):
         with open(output_path, "w", encoding="utf-8") as f:
             for sent in self.lst_sentence:
-                sent_line = str(sent.get_num_sentence()) + '\t' + str(sent) + '\n'
+                sent_line = str(sent.get_num_sentence()) + '\t' + str(
+                    sent) + '\n'
                 f.write(sent_line.lower())
 
                 for trip in sent.get_sorted_list():
-                    txt = str(trip).lower().replace("_", " ").replace(" '", "'").replace("`", "").replace(" - ", "-") \
-                        .replace(" ,", ",").replace("( ", "(").replace(" )", ")").replace("“", "").replace("”", "") \
-                        .replace("\"", "").replace("  ", " ").replace(" / ", "/").replace("can not", "cannot") \
+                    txt = str(trip).lower().replace("_", " ").replace(" '",
+                                                                      "'").replace(
+                        "`", "").replace(" - ", "-") \
+                        .replace(" ,", ",").replace("( ", "(").replace(" )",
+                                                                       ")").replace(
+                        "“", "").replace("”", "") \
+                        .replace("\"", "").replace("  ", " ").replace(" / ",
+                                                                      "/").replace(
+                        "can not", "cannot") \
                         .replace("''", "")
                     txt = txt.replace("  ", " ")
                     f.write(txt)
@@ -516,7 +532,8 @@ class Text:
 if __name__ == '__main__':
     text_test = Text(name="test", year=2999, num="666")
     t_golden = Text(name="golden", year=2999, num="666")
-    t_golden.read_golden("data/info/eval/enb_l6_golden_exported_no_norm_pred.txt")
+    t_golden.read_golden(
+        "data/info/eval/enb_l6_golden_exported_no_norm_pred.txt")
     text_test.read_golden("data/info/eval/results_on_golden_set.txt")
     res = text_test.get_fscore(t_golden)
     # t_golden.read_golden("data/info/eval/test.txt")
